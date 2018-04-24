@@ -1,0 +1,26 @@
+<annotation>
+	<folder>testR</folder>
+	<filename>IMG_9924.JPG</filename>
+	<path>/Users/tongli/Desktop/graduation/imagesR/testR/IMG_9924.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>118</xmin>
+			<ymin>55</ymin>
+			<xmax>447</xmax>
+			<ymax>437</ymax>
+		</bndbox>
+	</object>
+</annotation>
